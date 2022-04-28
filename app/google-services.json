@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "18529337901",
+    "project_id": "ezikart-8b2cb",
+    "storage_bucket": "ezikart-8b2cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18529337901:android:f24f0af57be7020fb6aea4",
+        "android_client_info": {
+          "package_name": "com.example.ezikartf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18529337901-qvk7c2fsdmkgsnp35ifleoo0g1r44ko6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ezikartf",
+            "certificate_hash": "8ff3e96e4adbf920f6db5b934da7791e85f832f6"
+          }
+        },
+        {
+          "client_id": "18529337901-1h469orb3um30ej33hje28evbueiv5vv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEmcUA1Cav0zkhXXi-h76TBEN_891vSG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18529337901-1h469orb3um30ej33hje28evbueiv5vv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
